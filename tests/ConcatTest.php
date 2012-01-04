@@ -29,6 +29,9 @@ class ConcatTest extends PHPUnit_Framework_TestCase {
         
     }
 
+    public function testConcatPair() {
+        $this->assertTrue($this->concatObj->checkWordPair('sein', 'er'));
+    }
 }
 
 ?>
