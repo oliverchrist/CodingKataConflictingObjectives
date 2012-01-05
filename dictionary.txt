@@ -1288,7 +1288,6 @@ verurteilt
 tritt
 Volk
 Pläne
-R
 angekündigt
 Satz
 sitzen
@@ -1352,7 +1351,6 @@ bestehen
 Flüchtlinge
 Jugendliche
 Freund
-A
 Themen
 überall
 droht
@@ -1364,7 +1362,6 @@ europäische
 Punkt
 Erfahrung
 The
-I
 Außenminister
 soziale
 russische
@@ -1668,7 +1665,6 @@ Kauf
 Vorstellungen
 Halle
 Untersuchung
-s
 Rom
 bessere
 unserem
@@ -1786,7 +1782,6 @@ eingestellt
 Kontakt
 früh
 ursprünglich
-m
 Prinzip
 Ausdruck
 definieren
@@ -2090,7 +2085,6 @@ schlagen
 Direktor
 Realität
 Falls
-B
 Schreiben
 Sender
 Provinz
@@ -2232,7 +2226,6 @@ gehörte
 verspricht
 vergeben
 traf
-a
 wonach
 Inhalt
 Vorhaben
@@ -3189,7 +3182,6 @@ Vereins
 gefahren
 Früher
 Jugoslawien
-L
 jenseits
 wechseln
 versuchten
@@ -3678,7 +3670,6 @@ Steuer
 Prag
 zurückzuführen
 hinterher
-S
 Kampagne
 Tanz
 bezieht
@@ -3744,7 +3735,6 @@ schauen
 seinerzeit
 Turnier
 leichte
-i
 Technologie
 Ost
 Profis
@@ -3791,7 +3781,6 @@ Konflikte
 Baum
 Kapitän
 planen
-U
 ots
 betrachten
 Front
@@ -4106,7 +4095,6 @@ Tagung
 versetzt
 Zuordnung
 südlich
-D
 schätzen
 Sprachen
 zurückkehren
@@ -4160,7 +4148,6 @@ Gottes
 direkte
 mittleren
 Komponenten
-C
 Ansatz
 Einzelhandel
 Element
@@ -4294,7 +4281,6 @@ Hals
 Inseln
 Zusätzlich
 Bayerns
-n
 präsentierte
 Klub
 ermitteln
@@ -4876,7 +4862,6 @@ Ausnahmen
 Gehalt
 polnische
 Diesmal
-N
 Varianten
 Nerven
 Flammen
@@ -6137,7 +6122,6 @@ fremd
 Umwandlung
 wagen
 nachhaltig
-K
 Häftlinge
 zerstören
 Listen
@@ -6340,7 +6324,6 @@ beliebt
 Konzerte
 Süd
 angekündigten
-X
 besonderes
 vorliegt
 ausgerichtet
@@ -6436,7 +6419,6 @@ Menü
 gespannt
 Unmut
 Wohnen
-o
 AFP
 überfallen
 verabschiedete
@@ -6754,7 +6736,6 @@ Nachweis
 gewöhnlich
 trainiert
 Basel
-b
 betreffenden
 Materie
 Herausgeber
@@ -6942,7 +6923,6 @@ Leid
 Format
 entstandenen
 Bogen
-E
 regeln
 durchzuführen
 Handy
@@ -7218,7 +7198,6 @@ Investition
 Comeback
 Dritte
 kroatische
-G
 Karadzic
 Edith
 ausgebrochen
@@ -7234,7 +7213,6 @@ Gehälter
 deuten
 so genannten
 stetig
-M
 Joseph
 neueste
 Hallen
@@ -7452,7 +7430,6 @@ goldenen
 Exporte
 Einblick
 Ausführungen
-O
 herausgegeben
 Polens
 Ausgangspunkt
@@ -7716,7 +7693,6 @@ abgerissen
 Marsch
 Frühling
 aufhören
-T
 osteuropäischen
 sozialistische
 Verhaftung
@@ -8013,7 +7989,6 @@ Sagen
 Flughafens
 sechzig
 trieb
-t
 Wirtschaftsministerium
 Neuseeland
 Kolumbien
@@ -8482,7 +8457,6 @@ Lehmann
 Obst
 eingebunden
 Konsortium
-f
 Diskriminierung
 Fehlen
 reale
@@ -8501,7 +8475,6 @@ Großvater
 Antike
 erbracht
 Rivalen
-F
 zugegeben
 Besten
 aufgewachsen
@@ -8860,7 +8833,6 @@ Schiene
 selbstbewußt
 Bundeswirtschaftsminister
 Ausschreibung
-Z
 irakische
 Anweisungen
 Verlegung
@@ -9028,7 +9000,6 @@ unterlag
 Rinder
 Dreck
 Ei
-e
 Allgemeine
 Grundgesetzes
 Ostberliner
@@ -9108,7 +9079,6 @@ hinunter
 konstant
 weißer
 Ethik
-V
 Abfälle
 tschechische
 Mailänder
@@ -9169,7 +9139,6 @@ Red
 ausgeschrieben
 Hebron
 US
-d
 unverzüglich
 Zunge
 Nationalisten
